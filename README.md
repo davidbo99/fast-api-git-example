@@ -1,6 +1,7 @@
 # GitExample
 
 This is just a git example for students in the Parquesoft course
+Se agrega linea el dia 10 de febrero de 2023 por el usuario pabfig85
 
 ## Development Requirements
 
