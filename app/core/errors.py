@@ -1,6 +1,6 @@
 class PredictException(BaseException):
     ...
 
-
+// Ejemplo Daniella
 class ModelLoadException(BaseException):
     ...
