@@ -131,3 +131,6 @@ Deploying inference service to AWS Lambda
 ## Add the correct type hinting when completed
 
 `aws cloudformation delete-stack --stack-name <STACK_NAME_ON_CREATION>`
+
+
+// julian de parquesoft cohorte 10 estubo aqui 
