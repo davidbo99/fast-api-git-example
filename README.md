@@ -3,6 +3,7 @@
 This is just a git example for students in the Parquesoft course
 Se agrega linea el dia 10 de febrero de 2023 por el usuario pabfig85
 el usuario juliansan86 agrego esta  linea
+##practica de camilo camayo (acamilo0318)
 
 //Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -Edicion XimenaGarcia
 //This is a example by DaniellaArias
