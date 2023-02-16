@@ -138,3 +138,4 @@ Deploying inference service to AWS Lambda
 
 
 // julian de parquesoft cohorte 10 estubo aqui 
+// Raul Brito de parquesoft cohorte 10 tambien estuvo aqui :D 
