@@ -120,8 +120,6 @@ Deploying inference service to Cloud Run
 1. Delete Cloud Run
 2. Delete Docker image in GCR
 
-## AWS
-Deploying inference service to AWS Lambda
 
 ### Authenticate
 
@@ -137,8 +135,8 @@ Deploying inference service to AWS Lambda
 `aws cloudformation delete-stack --stack-name <STACK_NAME_ON_CREATION>`
 
 
-// julian de parquesoft cohorte 10 estubo aqui 
-// Raul Brito de parquesoft cohorte 10 tambien estuvo aqui :D 
+// julian de parquesoft cohorte 10 estubo aqui
+// Raul Brito de parquesoft cohorte 10 tambien estuvo aqui :D
 //Alejandra Gallego estuvo aqui
 
 
