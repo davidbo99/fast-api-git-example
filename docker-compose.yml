@@ -16,3 +16,5 @@ services:
       - ./ml/model/:/app/ml/model/
   postgres:
     image: postgres13.9:alpine
+  mysql:
+    image: mysql
