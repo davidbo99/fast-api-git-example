@@ -11,9 +11,7 @@ ifeq ($(MODEL_PATH),)
 MODEL_PATH := ./ml/model/
 endif
 
-ifeq ($(MODEL_NAME),)
-MODEL_NAME := model.pkl
-endif
+
 
 # Target section and Global definitions
 # -----------------------------------------------------------------------------
