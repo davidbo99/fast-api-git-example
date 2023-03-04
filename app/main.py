@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+
 
 from api.routes.api import router as api_router
 from core.events import create_start_app_handler
