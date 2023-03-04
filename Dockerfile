@@ -1,5 +1,7 @@
 FROM python:3.11.1
 
+ENV PYTHONUNBUFFERED 1
+
 WORKDIR /app
 
 COPY poetry.lock pyproject.toml ./
@@ -22,4 +24,3 @@ CMD uvicorn main:app --host 0.0.0.0 --port 8080
 // Agregar linea comentario Pablo Figueroa
 // esta linea fue agregada por juliansan86
 
-//Shirley Buitrago modifica algo.
