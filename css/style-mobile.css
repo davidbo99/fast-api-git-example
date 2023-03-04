@@ -1,0 +1,75 @@
+/* Navbar */
+.navbar .logo{
+    float: none;
+    text-align: center;
+  }
+  
+  .navbar ul, 
+  .navbar ul li {
+    float: none;
+  }
+  
+  .navbar ul li a {
+    padding: 5px;
+  }
+  
+  /* Banner */
+  .banner-header-text {
+    width: 80%;
+  }
+  
+  /* Portfolio */
+  .portfolio .portfolio-nav {
+    display: none;
+  }
+  
+  .box {
+    float: none;
+    width: 100%;
+    padding:10px;
+  }
+  
+  /* Contact */
+  .hero-title {
+    font-size: 2em;
+    padding-bottom: 20px;
+  }
+  
+  /* Contact */
+  .contact {
+    height: 100%;
+  }
+  
+  .contact .box-contact-features {
+    float: none;
+    width: 100%;
+  }
+  
+  .contact .features-contact .box-form{
+    float: none;
+    width: 100%;
+  }
+  
+  /* Single Project */
+  .box-portfolio {
+    float: none;
+    width: 100%;
+  }
+  
+  .single-project .description h4{
+    font-size: 1em;
+  }
+  
+  /* About */
+  .card-skill {
+    float: left;
+    width: 33.3%;
+    padding:10px;
+    margin-top: 5px;
+  }
+  
+  /* Animation none */
+  .box-card {
+    float: none;
+    width: 100%;
+  }
