@@ -1,8 +1,8 @@
 version: "3"
-//*//
+
 services:
   app:
-    build:
+    build: 
       context: .
       args:
         DEV: "true"
@@ -10,11 +10,8 @@ services:
       - "8080:8080"
     env_file:
       - .env
-    command: uvicorn main:app --reload --host 0.0.0.0 --port 5423
-    volumes:
-      - ./app:/app/
-      - ./ml/model/:/app/ml/model/
-  postgres:
-    image: postgres13.9:alpine
-  mysql:
-    image: mysql
+    command: uvicorn main:app --reload --host 0.0.0.0 --port 8080
+   
+
+      hola clase
+      soy felipe
