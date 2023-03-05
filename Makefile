@@ -19,7 +19,7 @@ endif
 # -----------------------------------------------------------------------------
 .PHONY: all clean test install run deploy down
 
-all: clean test install run deploy down
+//"se realiza el ultimo cambio(Esteban Maya)"
 
 test:
 	poetry run pytest tests -vv --show-capture=all
