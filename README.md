@@ -53,7 +53,7 @@ make install
 
 ## Access Redocs Documentation
 
-> <http://localhost:8080/redoc>
+> <http://GOOGLE.COM>
 
 ## Project structure
 
