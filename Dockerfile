@@ -9,9 +9,11 @@ RUN pip install --upgrade pip && \
     pip install poetry && \
     poetry config virtualenvs.create false
 
-ARG DEV=false
-RUN if [ "$DEV" = "true" ] ; then poetry install --with dev ; else poetry install --only main ; fi
-RUN poetry install
+// Se eliminan lineas ARG, RUN if y RUN poetry - Shirley Buitrago
+
+/*ARG DEV=false*/
+/*RUN if [ "$DEV" = "true" ] ; then poetry install --with dev ; else poetry install --only main ; fi*/
+/*RUN poetry install*/
 
 COPY ./app/ ./
 COPY ./ml/model/ ./ml/model/
