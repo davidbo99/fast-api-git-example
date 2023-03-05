@@ -11,12 +11,7 @@ class HealthResponse(BaseModel):
     status: bool
 
 
-class MachineLearningDataInput(BaseModel):
-    feature1: float
-    feature2: float
-    feature3: float
-    feature4: float
-    feature5: float
+// elemine class por oscar mora
 
     def get_np_array(self):
         return np.array(
