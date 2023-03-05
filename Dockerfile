@@ -7,9 +7,9 @@ WORKDIR /app
 COPY poetry.lock pyproject.toml ./
 RUN pip install --upgrade pip && \
     pip install poetry && \
-    poetry config virtualenvs.create false
+    poetry config virtualenvs.create TRUE
 
-ARG DEV=false
+ARG DEV=true
 RUN if [ "$DEV" = "true" ] ; then poetry install --with dev ; else poetry install --only main ; fi
 RUN poetry install
 
