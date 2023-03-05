@@ -49,7 +49,7 @@ make install
 
 ## Access Swagger Documentation
 
-> <http://localhost:8080/docs>
+> 
 
 ## Access Redocs Documentation
 
