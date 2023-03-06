@@ -6,7 +6,7 @@ def pagenation(
     page_number starts with 0 (array like),
     if start_page_as_1 defined as True, start with 1.
     """
-    if start_page_as_1:
+    if start_page_as_2:
         if page_number <= 0:
             raise Exception(
                 "Page number must starts > 0.\nCause: start_page_as_1=True and page_number defined as <= 0"
