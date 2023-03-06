@@ -1,5 +1,6 @@
 SHELL := /bin/bash
 
+# Comentario añadido por Alexandra Materon
 # Variables definitions
 # -----------------------------------------------------------------------------
 
