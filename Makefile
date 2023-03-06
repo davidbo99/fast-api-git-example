@@ -39,10 +39,7 @@ deploy: generate_dot_env
 down:
 	docker-compose down
 
-generate_dot_env:
-	@if [[ ! -e .env ]]; then \
-		cp .env.example .env; \
-	fi
+
 
 clean:
 	@find . -name '*.pyc' -exec rm -rf {} \;
