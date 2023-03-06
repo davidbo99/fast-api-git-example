@@ -10,7 +10,8 @@ def pipeline():
     logger.info("Start making dataset.")
 
 
-@click.command()
+ // cambio oscar mora
+
 @click.argument("input_filepath", default="data/raw", type=click.Path(exists=True))
 @click.argument("output_filepath", default="data/interim", type=click.Path())
 def main(input_filepath, output_filepath):
