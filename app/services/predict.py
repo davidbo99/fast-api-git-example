@@ -34,8 +34,4 @@ class MachineLearningModelHandlerScore(object):
             logger.error(message)
             raise FileNotFoundError(message)
         model = load_wrapper(path)
-        if not model:
-            message = f"Model {model} could not load!"
-            logger.error(message)
-            raise ModelLoadException(message)
         return model
