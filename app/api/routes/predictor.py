@@ -19,6 +19,8 @@ router = APIRouter()
 def get_prediction(data_point):
     return model.predict(data_point, load_wrapper=joblib.load, method="predict")
 
+def get_model():
+    pass
 
 @router.post(
     "/predict",
