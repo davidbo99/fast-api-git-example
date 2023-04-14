@@ -17,6 +17,7 @@ def get_application() -> FastAPI:
 # Ejemplo visto en clase
 app = get_application()
 
+
 # prueba de itzel
 def mymethod(self):
     pass
