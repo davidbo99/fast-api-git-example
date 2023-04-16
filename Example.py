@@ -1,3 +1,3 @@
-print("Debe ingresar el ancho del Password")
-print("prueba")
-
+texto = " y "
+print("Hola", end=texto)
+print("Adiós")
