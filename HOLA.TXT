@@ -2,9 +2,43 @@
 <html>
 <head>
     <title>Mi Página Web</title>
+    <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-    <h1>Hola, mundo!</h1>
-    <p>Esta es una página web de ejemplo.</p>
+    <header>
+        <h1>Mi Página Web</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#acerca-de">Acerca de</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="inicio">
+        <h2>Bienvenido</h2>
+        <p>¡Hola! Esta es mi página web personal.</p>
+        <img src="imagen.jpg" alt="Mi foto de perfil">
+    </section>
+    <section id="acerca-de">
+        <h2>Acerca de mí</h2>
+        <p>Soy una arquitecta con ganas de aprender programacion y desarrollo.</p>
+    </section>
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Si quieres ponerte en contacto conmigo, puedes escribirme a mi correo electrónico: andreagarcia02@hotmail.com o llenar el siguiente formulario:</p>
+        <form action="enviar_formulario.php" method="post">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" required></textarea>
+            <input type="submit" value="Enviar">
+        </form>
+    </section>
+    <footer>
+        <p>© 2023. Todos los derechos reservados.</p>
+    </footer>
 </body>
 </html>
