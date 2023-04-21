@@ -41,6 +41,17 @@
             </li>
             <!-- Agrega más proyectos aquí -->
         </ul>
+        <section id="habilidades">
+    <h2>Habilidades</h2>
+    <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Node.js</li>
+        <!-- Agrega más habilidades aquí -->
+    </ul>
+</section>
     </section>
     <section id="contacto">
         <h2>Contacto</h2>
