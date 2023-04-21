@@ -52,6 +52,24 @@
         <!-- Agrega más habilidades aquí -->
     </ul>
 </section>
+<section id="experiencia">
+    <h2>Experiencia laboral</h2>
+    <ul>
+        <li>
+            <h3>Empresa 1</h3>
+            <p>Cargo: Desarrollador web</p>
+            <p>Periodo: Enero 2019 - Abril 2020</p>
+            <p>Descripción: Desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS y JavaScript.</p>
+        </li>
+        <li>
+            <h3>Empresa 2</h3>
+            <p>Cargo: Front-end Developer</p>
+            <p>Periodo: Mayo 2020 - Presente</p>
+            <p>Descripción: Diseño y desarrollo de interfaces de usuario utilizando React y Redux.</p>
+        </li>
+        <!-- Agrega más experiencias laborales aquí -->
+    </ul>
+</section>
     </section>
     <section id="contacto">
         <h2>Contacto</h2>
