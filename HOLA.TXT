@@ -3,6 +3,7 @@
 <head>
     <title>Mi Página Web</title>
     <link rel="stylesheet" href="estilos.css">
+    <script src="script.js"></script>
 </head>
 <body>
     <header>
@@ -11,6 +12,7 @@
             <ul>
                 <li><a href="#inicio">Inicio</a></li>
                 <li><a href="#acerca-de">Acerca de</a></li>
+                <li><a href="#portafolio">Portafolio</a></li>
                 <li><a href="#contacto">Contacto</a></li>
             </ul>
         </nav>
@@ -22,7 +24,23 @@
     </section>
     <section id="acerca-de">
         <h2>Acerca de mí</h2>
-        <p>Soy una arquitecta con ganas de aprender programacion y desarrollo.</p>
+        <p>Soy una arquitecta estudiando programacion y desarrollo web.</p>
+    </section>
+    <section id="portafolio">
+        <h2>Portafolio</h2>
+        <ul>
+            <li>
+                <img src="proyecto1.jpg" alt="Proyecto 1">
+                <h3>Proyecto 1</h3>
+                <p>Descripción del proyecto 1.</p>
+            </li>
+            <li>
+                <img src="proyecto2.jpg" alt="Proyecto 2">
+                <h3>Proyecto 2</h3>
+                <p>Descripción del proyecto 2.</p>
+            </li>
+            <!-- Agrega más proyectos aquí -->
+        </ul>
     </section>
     <section id="contacto">
         <h2>Contacto</h2>
