@@ -1,4 +1,6 @@
 import json
+import pandas as pd
+import numpy as np
 
 import joblib
 from fastapi import APIRouter, HTTPException
@@ -56,3 +58,5 @@ async def health():
         return HealthResponse(status=is_health)
     except Exception:
         raise HTTPException(status_code=404, detail="Unhealthy")
+
+
