@@ -3,3 +3,7 @@ num1 = 2
 num2 = 5
 suma = num1+num2
 print("La suma de los 2 numeros es: ",suma)
+
+#Agrego los segundos cambios
+reta = num1 -num2
+print("La resta de los 2 numeros es: ", resta)
