@@ -33,3 +33,5 @@ class MachineLearningDataInput(BaseModel):
 
     def mymethod(self):
         pass
+
+class descifrar()
