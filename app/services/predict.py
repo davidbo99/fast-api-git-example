@@ -5,6 +5,9 @@ from loguru import logger
 from core.errors import PredictException, ModelLoadException
 from core.config import MODEL_NAME, MODEL_PATH
 
+# Implementacion de nuevas librerias
+import pandas as pd
+import numpy as np
 
 class MachineLearningModelHandlerScore(object):
     model = None
