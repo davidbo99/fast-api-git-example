@@ -138,4 +138,4 @@ Deploying inference service to AWS Lambda
 
 
 // julian de parquesoft cohorte 10 estubo aqui 
-
+//Alejandra Villaquiran 4 commit cohorte11
