@@ -13,7 +13,8 @@
                 <li><a href="#inicio">Inicio</a></li>
                 <li><a href="#acerca-de">Acerca de</a></li>
                 <li><a href="#portafolio">Portafolio</a></li>
-                <li><a href="#contacto">Contacto</a></li>
+                <li><a href="#">Login</a></li>
+		<li><a href="#contacto">Contacto</a></li>
             </ul>
         </nav>
     </header>
