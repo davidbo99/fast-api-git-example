@@ -57,9 +57,9 @@
     <ul>
         <li>
             <h3>Empresa 1</h3>
-            <p>Cargo: Desarrollador web</p>
+            <p>Cargo: Arquitecta </p>
             <p>Periodo: Enero 2019 - Abril 2020</p>
-            <p>Descripción: Desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS y JavaScript.</p>
+            <p>Descripción: Proyecto realizado en Bs As argentina.</p>
         </li>
         <li>
             <h3>Empresa 2</h3>
