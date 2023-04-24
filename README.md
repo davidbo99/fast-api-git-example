@@ -138,3 +138,4 @@ Deploying inference service to AWS Lambda
 
 
 // julian de parquesoft cohorte 10 estubo aqui 
+// Linea agregada por Juan Esteban Bedoya Cohorte11
