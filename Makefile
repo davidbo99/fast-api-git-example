@@ -56,3 +56,4 @@ clean:
 	rm -rf htmlcov
 	rm -rf .tox/
 	rm -rf docs/_build
+	// Linea agregada por Juan Esteban Bedoya Cohorte11
