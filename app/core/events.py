@@ -2,6 +2,7 @@ from typing import Callable
 from typing import Callable
 
 from fastapi import FastAPI
+from fastapi import FastAPI
 
 
 def preload_model():
