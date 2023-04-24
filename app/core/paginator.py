@@ -25,6 +25,7 @@ def pagenation(
         end += page_size
     return {
         "begin": begin,
+        "begin": begin,
         "end": end,
         "totalPages": total_pages,
         "remaining": remaining,
