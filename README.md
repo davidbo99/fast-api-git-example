@@ -141,3 +141,4 @@ Deploying inference service to AWS Lambda
 #Juan Torres estuvo aqui
 Install APP
 Update APP
+Uninstall APP
