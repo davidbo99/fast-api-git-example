@@ -140,3 +140,4 @@ Deploying inference service to AWS Lambda
 // julian de parquesoft cohorte 10 estubo aqui 
 #Juan Torres estuvo aqui
 Install APP
+Update APP
