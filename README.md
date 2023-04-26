@@ -142,3 +142,4 @@ Deploying inference service to AWS Lambda
 Install APP
 Update APP
 Uninstall APP
+Remove APP
