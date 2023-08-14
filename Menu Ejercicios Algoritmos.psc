@@ -119,6 +119,7 @@ Algoritmo Ejercicios
 		Leer op;
 		Segun op Hacer
 			1:
+				Escribir("*** Ejercicio 1 Intercambio de valores ***");
 				Escribir("Ingrese valor de A y B: ");
 				Leer A, B;
 				A=A+B;
@@ -128,11 +129,13 @@ Algoritmo Ejercicios
 				Escribir("El valor de B ahora es: "),B;
 				Escribir("Presione Enter para continuar...");
 			2:
+				Escribir("*** Ejercicio 2 Horas jugadas ***");
 				Escribir("Colombia en los 6 partidos jugados suma un total de 9 Hrs, por que: ");
 				Escribir("un partido dura 90 m Entonces: 6x90=540m ");
 				Escribir ("1 h tiene 60 minutos entonces 540m/60m=9");
 				Escribir("Presione Enter para continuar...");
 			3:
+				Escribir("*** Ejercicio 3 Días de la semana ***");
 				Escribir("Ingrese número: ");
 				Leer num;
 				Si num>0 y num<=7 Entonces
@@ -169,6 +172,7 @@ Algoritmo Ejercicios
 				FinSi
 				Escribir("Presione Enter para continuar...");
 			4:
+				Escribir("*** Ejercicio 4 Datos Estudiantes ***");
 				estudiantes=0;
 				Repetir
 					Escribir("Favor ingrese datos estudiantes: Nombre, Apellido, edad y nota: ");
