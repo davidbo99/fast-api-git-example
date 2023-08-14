@@ -181,6 +181,7 @@ Algoritmo Ejercicios
 				Hasta Que estudiantes>=3;
 				Escribir("Presione Enter para continuar...");
 			5:
+				Escribir("*** Ejercicio 5 Tablas de Multiplicar ***");
 				mults=1;
 				Escribir("Ingrese tabla del : ");
 				Leer tnum;
@@ -190,6 +191,7 @@ Algoritmo Ejercicios
 				Hasta Que mults>15				
 				Escribir("Presione Enter para continuar...");
 			6:
+				Escribir("*** Ejercicio 6 Cuadro asteriscos ***");
 				aster="";
 				Escribir("Ingrese número de asteriscos: ");
 				Leer numa;
@@ -203,6 +205,7 @@ Algoritmo Ejercicios
 				Escribir aster;
 				Escribir("Presione Enter para continuar...");
 			7:
+				Escribir("*** Ejercicio 7 Recuadro asteriscos ***");
 				asterr="";
 				Escribir("Ingrese número de asteriscos: ");
 				Leer numar;
@@ -220,6 +223,7 @@ Algoritmo Ejercicios
 				Escribir asterr;
 				Escribir("Presione Enter para continuar...");
 			8:
+				Escribir("*** Ejercicio 8 Bisiesto ***");
 				Escribir("Ingrese año: ");
 				Leer año;
 				Si (año%100=0 y año%400=0) o (año%100<>0 y año%4=0) Entonces
@@ -229,6 +233,7 @@ Algoritmo Ejercicios
 				FinSi	
 				Escribir("Presione Enter para continuar...");
 			9:
+				Escribir("*** Ejercicio 9 Años, meses, días ***");
 				Escribir("Ingrese cantidad de días: ");
 				Leer cdias;
 				mdias=cdias%365;
@@ -238,6 +243,7 @@ Algoritmo Ejercicios
 				Escribir cdias, " dias ","son: ",años, " años ", meses, " meses ", dias, " dias"; 
 				Escribir("Presione Enter para continuar...");
 			10:
+				Escribir("*** Ejercicio 10 Conteo de caracteres ***");
 				espacios="";
 				Escribir("Ingrese cadena: ");
 				Leer palabra;
