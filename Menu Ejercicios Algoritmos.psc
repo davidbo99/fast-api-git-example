@@ -275,9 +275,9 @@ Algoritmo Ejercicios
 				Escribir cambioMoneda(pesos,divisa);	
 				Escribir("Presione Enter para continuar...");
 			13:
-				Escribir("*** Ejercicio 13 Acerca de ***")
-				i=-1
-				Linea=""
+				Escribir("*** Ejercicio 13 Acerca de ***");
+				i=-1;
+				Linea="";
 				ccaracter="";
 				Mientras i<Longitud(Line) Hacer
 					i=i+1;
