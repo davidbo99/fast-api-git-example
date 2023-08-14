@@ -254,11 +254,13 @@ Algoritmo Ejercicios
 				Escribir contarcar(palabra,espacios);	
 				Escribir("Presione Enter para continuar...");
 			11:
+				Escribir("*** Ejercicio 11 Palindromo ***");
 				Escribir("Ingrese cadena: ");
 				Leer palabromo;	
 				Escribir verPal(palabromo);	
 				Escribir("Presione Enter para continuar...");
 			12:
+				Escribir("*** Ejercicio 12 Cambio de moneda ***");
 				divisa=0;
 				Escribir("Ingrese pesos COP: ");
 				Leer pesos;
@@ -273,8 +275,9 @@ Algoritmo Ejercicios
 				Escribir cambioMoneda(pesos,divisa);	
 				Escribir("Presione Enter para continuar...");
 			13:
-				i=-1;
-				Linea="";
+				Escribir("*** Ejercicio 13 Acerca de ***")
+				i=-1
+				Linea=""
 				ccaracter="";
 				Mientras i<Longitud(Line) Hacer
 					i=i+1;
