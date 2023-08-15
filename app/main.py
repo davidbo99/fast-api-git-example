@@ -13,13 +13,13 @@ def get_application() -> FastAPI:
         application.add_event_handler("startup", create_start_app_handler(application))
     return application
 
-//Ejemplo visto en clase
+#Ejemplo visto en clase
 app = get_application()
 
-//prueba de itzel
+#rueba de itzel
 def mymethod(self):
     pass
-//julian estuvo aqui
+#julian estuvo aqui
 
 
 #Daniel Colorado reviso he hizo un comnetario aca
