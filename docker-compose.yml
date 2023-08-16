@@ -14,3 +14,4 @@ services:
     volumes:
       - ./app:/app/
       - ./ml/model/:/app/ml/model/
+      // segundo cambio Dany OSSA
