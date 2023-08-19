@@ -7,6 +7,10 @@ ifeq ($(TIMEOUT),)
 TIMEOUT := 60
 endif
 
+ifeq ($(TIMEOUT),)
+TIMEOUT := 60
+endif
+
 ifeq ($(MODEL_PATH),)
 MODEL_PATH := ./ml/model/
 endif
