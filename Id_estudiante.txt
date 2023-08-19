@@ -1,2 +1,4 @@
 nombres: Edwin 
 apellidos :Moises
+cel: 314 88774492
+direcion : cll 4 numero 1a -37
