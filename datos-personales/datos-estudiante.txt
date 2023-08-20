@@ -2,3 +2,6 @@ nombre : edwin pabon
 edad 34
 correo edwin.pab2@gmail.com
 cel 314 7769257
+
+libreta militar : segunda clase
+
